@@ -1,0 +1,29 @@
+Algumas pessoas sonham em fazer o inimaginável.
+Voar entre as nuvens, conversar com animais, ou até mesmo respirar onde só tem água!
+Os humanos sonham pelo inimaginável
+Muitas vezes, aquilo que sonham pode revelar muito sobre eles.
+Sobre o que gostam.
+Sobre quem são.
+...
+Mas nós nunca sabemos se tem alguém nos observando
+quando nós estamos sonhando...
+Magia. Ela sempre existiu. Às vezes nas menores coisas, existia uma magia encantadora para os humanos.
+Onde existe algo novo e encantador, existem pessoas destinadas a domar o desconhecido e tomá-lo para si. 
+Não existiam muitas pessoas capazes de dominar magia no início, mas o número sempre cresceu.
+Com o tempo, escolas de magia começaram a aparecer, para aqueles que usavam magia ou buscavam auxiliar na utilização dela. 
+Aya Nan Heinsberg: Eu finalmente vou poder entrar nessa academia. Minha mãe falou grandes maravilhas dos estudos daqui. 
+Aya Nan Heinsberg: Minha mãe foi uma das grandes magas da história, capaz de usar todos os elementos na sua vontade.
+Aya Nan Heinsberg: Infelizmente, ela não está aqui para me guiar mais
+Aya Nan Heinsberg: Eu deveria começar com a minha inscrição logo, eu não posso me atrasar muito.
+Aya Nan Heinsberg: Para um mundo mágico, ter inscrições manuais é algo um pouco antiquado. 
+Aya Nan Heinsberg: Está um momento tão agradável, ás vezes eu desejo só poder ficar nesse momento sempre.
+As folhas de cerejeira caíam lentamente pelo vento, sendo arrastadas pela rua. Aya observava os arredores distraída pelo ambiente.
+Sendo recebida por uma sensação dolorosa de relembrar de sua mãe, mas ao mesmo tempo confortável.
+Aya Nan Heinsberg: Será que estou atrasada?
+Aya Nan Heinsberg: Eu deveria me apressar...
+Alguns alunos caminhavam na mesma direção que Aya, todos pareciam animados com sua estadia na Academia.
+Aya Nan Heinsberg: Será que as pessoas já estão em grupos fechados? 
+Um estranho nervosismo bate nela quando pensa em ficar sozinha novamente.
+Aya Nan Heinsberg: (Eu sempre terei os sonhos...)[question=endmenu]
+[choice] End Tutorial
+[choice] End Tutorial
