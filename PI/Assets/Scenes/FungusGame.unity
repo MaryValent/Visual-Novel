@@ -2266,7 +2266,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 87.856255
     y: 0.3707385
-    width: 103.06117
+    width: 106.52168
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2310,11 +2310,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 105.413445, y: -106.1138}
+  scrollPos: {x: 74.22446, y: 19.351892}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 401
-  zoom: 0.49000046
+  zoom: 0.46000046
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -2323,7 +2323,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1366739832}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 1366739869}
   variables:
   - {fileID: 1366739912}
   description: 
@@ -2724,7 +2725,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 89.84567
     y: 98.40001
-    width: 96.938736
+    width: 99.999954
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2802,7 +2803,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: "A nostalgia de vir aqui \xE9 muito forte..."
+  storyText: "(A nostalgia de vir aqui \xE9 muito forte...)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -2829,7 +2830,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 18
   indentLevel: 0
-  storyText: "\xC9 quase como um sonho que se tornou realidade"
+  storyText: "(\xC9 quase como um sonho que se tornou realidade)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -2856,8 +2857,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: "\xC9 dif\xEDcil acreditar que eu finalmente vou estudar no mesmo lugar
-    que a minha m\xE3e estudou."
+  storyText: "(\xC9 dif\xEDcil acreditar que eu finalmente vou estudar no mesmo lugar
+    que a minha m\xE3e estudou.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -2884,8 +2885,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: "Parece que passou uma eternidade desde que eu vim aqui pela \xFAltima
-    vez.."
+  storyText: "(Parece que passou uma eternidade desde que eu vim aqui pela \xFAltima
+    vez..)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -2942,7 +2943,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 0
-  storyText: "Eu n\xE3o deveria me atrasar, \xE9 melhor ir logo."
+  storyText: "(Eu n\xE3o deveria me atrasar, \xE9 melhor ir logo.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3038,7 +3039,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 83.38861
     y: 188.0996
-    width: 113.26524
+    width: 117.391235
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3078,8 +3079,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 26
   indentLevel: 0
-  storyText: "Mas sem pensamentos tristes, tenho certeza que ela est\xE1 feliz em
-    me ver feliz!"
+  storyText: "(Mas sem pensamentos tristes, tenho certeza que ela est\xE1 feliz em
+    me ver feliz!)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3106,7 +3107,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 24
   indentLevel: 0
-  storyText: "Infelizmente, ela n\xE3o est\xE1 aqui para me guiar mais"
+  storyText: "(Infelizmente, ela n\xE3o est\xE1 aqui para me guiar mais)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3133,7 +3134,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 25
   indentLevel: 0
-  storyText: "Queria que minha m\xE3e estivesse aqui para me ver nesse momento..."
+  storyText: "(Queria que minha m\xE3e estivesse aqui para me ver nesse momento...)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3240,7 +3241,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -90.88166
     y: 287.99594
-    width: 115.30606
+    width: 119.56515
     height: 40
   tint: {r: 0.33333334, g: 0.6901961, b: 0.7019608, a: 1}
   useCustomTint: 1
@@ -3267,7 +3268,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 240.28084
     y: 286.4549
-    width: 121.428505
+    width: 126.08688
     height: 40
   tint: {r: 0.8962264, g: 0.40161088, b: 0.40161088, a: 1}
   useCustomTint: 1
@@ -3350,8 +3351,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 35
   indentLevel: 0
-  storyText: "Aquele parece ser o pr\xE9dio principal, ao lado do gin\xE1sio... Ugh,
-    eu precisava de um mapa para saber para onde ir."
+  storyText: "(Aquele parece ser o pr\xE9dio principal, ao lado do gin\xE1sio...
+    Ugh, eu precisava de um mapa para saber para onde ir.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3378,7 +3379,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 34
   indentLevel: 0
-  storyText: "Essa escola parece gigante, n\xE3o sei como n\xE3o vou me perder aqui..."
+  storyText: "(Essa escola parece gigante, n\xE3o sei como n\xE3o vou me perder aqui...)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3405,8 +3406,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 44
   indentLevel: 0
-  storyText: "Apesar do momento agrad\xE1vel, agora eu realmente vou fazer minha
-    inscri\xE7\xE3o."
+  storyText: "(Apesar do momento agrad\xE1vel, agora eu realmente vou fazer minha
+    inscri\xE7\xE3o.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3433,8 +3434,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 43
   indentLevel: 0
-  storyText: "Mas para uma escola com magia, inscri\xE7\xF5es manuais parecem um
-    pouco antiquadas."
+  storyText: "(Mas para uma escola com magia, inscri\xE7\xF5es manuais parecem um
+    pouco antiquadas.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3461,7 +3462,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: "Eu n\xE3o devia me distrair tanto"
+  storyText: "(Eu n\xE3o devia me distrair tanto)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3569,7 +3570,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 38
   indentLevel: 0
-  storyText: "\xC9 como se eu conseguisse sentir as part\xEDculas de magia no ar."
+  storyText: "(\xC9 como se eu conseguisse sentir as part\xEDculas de magia no ar.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3596,7 +3597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 37
   indentLevel: 0
-  storyText: "Essa escola tem uma sensa\xE7\xE3o t\xE3o... M\xE1gica. "
+  storyText: "(Essa escola tem uma sensa\xE7\xE3o t\xE3o... M\xE1gica.)"
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3780,7 +3781,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 53
   indentLevel: 0
-  storyText: Como essa escola consegue parecer maior por dentro???
+  storyText: (Como essa escola consegue parecer maior por dentro???)
   description: 
   character: {fileID: 1540985072}
   portrait: {fileID: 0}
@@ -3834,7 +3835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 55
   indentLevel: 0
-  storyText: Eu posso te ajudar se quiser
+  storyText: "Voc\xEA precisa de ajuda?"
   description: 
   character: {fileID: 240767165}
   portrait: {fileID: 0}
@@ -4495,7 +4496,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 250.06671
     y: 450.80646
-    width: 105.10199
+    width: 108.695595
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4563,7 +4564,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 504.53766
     y: 286.90286
-    width: 135.7142
+    width: 141.30426
     height: 40
   tint: {r: 0.64705884, g: 0.23529413, b: 0.23529413, a: 1}
   useCustomTint: 1
@@ -6896,7 +6897,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 514.6516
     y: 452.51724
-    width: 119.38769
+    width: 123.91297
     height: 40
   tint: {r: 0.764151, g: 0.2775454, b: 0.2775454, a: 1}
   useCustomTint: 1
@@ -8012,7 +8013,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 244.98672
     y: 578.4469
-    width: 121.428505
+    width: 126.08688
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8063,7 +8064,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -4.214454
     y: 450.34518
-    width: 145.91827
+    width: 152.17381
     height: 40
   tint: {r: 0.40899786, g: 0.84580714, b: 0.8584906, a: 1}
   useCustomTint: 1
